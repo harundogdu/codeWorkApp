@@ -1,6 +1,4 @@
 # codeWorkApp
-
-# tarifkaApp
 ### The fourth assignment for the react-native tutorial on "patika.dev".
 
 <div>
